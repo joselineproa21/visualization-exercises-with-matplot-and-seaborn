@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "ms-python.python",
+    "workbench.editorAssociations": {   
+        "*.md": "vscode.markdown.preview.editor"
+    },
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 700,
+    "editor.minimap.enabled": false
+}

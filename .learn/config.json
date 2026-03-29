@@ -1,0 +1,140 @@
+{
+    "config": {
+        "port": 3000,
+        "os": "darwin",
+        "editor": {
+            "mode": "extension",
+            "agent": "vscode",
+            "version": "5.0.365"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "http://localhost:3000",
+        "contact": "https://github.com/learnpack/learnpack/issues/new",
+        "language": "auto",
+        "autoPlay": true,
+        "projectType": "project",
+        "grading": "isolated",
+        "exercisesPath": "./",
+        "webpackTemplate": null,
+        "disableGrading": false,
+        "disabledActions": [],
+        "actions": [],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "suggestions": {
+            "agent": null
+        },
+        "warnings": {},
+        "title": {
+            "us": "Visualization Exercises with Matplotlib and Seaborn",
+            "es": "Ejercicios de Visualización con Matplotlib y Seaborn"
+        },
+        "slug": "visualization-exercises-with-matplot-and-seaborn",
+        "preview": "https://github.com/4GeeksAcademy/visualization-exercises-with-matplot-and-seaborn/blob/main/assets/preview.png?raw=true",
+        "solution": {
+            "us": "https://github.com/4GeeksAcademy/visualization-exercises-with-matplot-and-seaborn/blob/main/notebook/solutions.ipynb",
+            "es": "https://github.com/4GeeksAcademy/visualization-exercises-with-matplot-and-seaborn/blob/main/notebook/solutions.es.ipynb"
+        },
+        "translations": [
+            "es",
+            "us"
+        ],
+        "technologies": [
+            "matplotlib",
+            "seaborn",
+            "python",
+            "data visualization"
+        ],
+        "difficulty": "beginner",
+        "syntax": "python",
+        "duration": 2,
+        "template_url": "self",
+        "autoStart": false,
+        "description": {
+            "us": "This project is designed to help you learn and practice data visualization techniques using Matplotlib and Seaborn libraries in Python. The exercises will guide you through creating customizable and elegant charts, from line and bar charts to scatter and pie charts.",
+            "es": "Este proyecto está diseñado para ayudarte a aprender y practicar técnicas de visualización de datos utilizando las bibliotecas Matplotlib y Seaborn en Python. Los ejercicios te guiarán a través de la creación de gráficos personalizables y elegantes, desde gráficos de líneas y barras hasta gráficos de dispersión y pastel."
+        },
+        "telemetry": {
+            "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=357"
+        },
+        "gitpod": true
+    },
+    "address": "http://localhost:3000",
+    "currentExercise": null,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "assets",
+            "slug": "assets",
+            "translations": {},
+            "language": null,
+            "entry": null,
+            "title": "assets",
+            "graded": false,
+            "files": [
+                {
+                    "path": "assets/devcontainer-image.png",
+                    "name": "devcontainer-image.png",
+                    "hidden": true
+                },
+                {
+                    "path": "assets/image-kernel.png",
+                    "name": "image-kernel.png",
+                    "hidden": true
+                },
+                {
+                    "path": "assets/preview.png",
+                    "name": "preview.png",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 1,
+            "path": "notebook",
+            "slug": "notebook",
+            "translations": {},
+            "language": null,
+            "entry": null,
+            "title": "notebook",
+            "graded": false,
+            "files": [
+                {
+                    "path": "notebook/problems.es.ipynb",
+                    "name": "problems.es.ipynb",
+                    "hidden": true
+                },
+                {
+                    "path": "notebook/problems.ipynb",
+                    "name": "problems.ipynb",
+                    "hidden": true
+                },
+                {
+                    "path": "notebook/solutions.es.ipynb",
+                    "name": "solutions.es.ipynb",
+                    "hidden": true
+                },
+                {
+                    "path": "notebook/solutions.ipynb",
+                    "name": "solutions.ipynb",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ],
+    "bugsLink": null,
+    "videoSolutions": false,
+    "localhostOnly": false,
+    "session": 2788724888088354300
+}
